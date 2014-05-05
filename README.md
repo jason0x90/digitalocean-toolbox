@@ -9,7 +9,7 @@ DigitalOcean Toolbox is a Browser Extension that allows you to monitor and manag
 
 Chrome Webstore: https://chrome.google.com/webstore/detail/digitalocean-toolbox/mkabammgfmchcfkobgpmcgkcmdfpjdde/details
 
-Firefox: 
+Firefox: https://github.com/jasonswan/digitalocean-toolbox/raw/master/output/digitaloceantoolbox_1.0.0.xpi
 
 ![DigitalOcean Toolbox Screenshot](/common/icons/toolbox-screenshot-640x400.png)
 
