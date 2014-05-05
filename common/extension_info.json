@@ -1,0 +1,25 @@
+{
+    "description": "Manage your DigitalOcean droplets.", 
+    "creator": "DigitalOcean Toolbox", 
+    "background_scripts": [
+    		"jquery-1.11.1.min.js",
+        "main.js"
+    ], 
+    "homepage_url": "https://www.digitalocean.com/", 
+    "version": "1.0.0", 
+		"options_page": "options.html",
+		"browser_button": {
+		  "caption": "DigitalOcean Toolbox",
+		  "tooltipText": "DigitalOcean Toolbox",
+		  "icon": "icons/button.png",
+		   "popup": {
+		     "url": "popup.html",
+		     "width": 700,
+		     "height": 460
+		   }
+		 },
+    "permissions": {
+    		"xhr": ["https://api.digitalocean.com/*"]
+    }, 
+    "name": "DigitalOcean Toolbox"
+}
