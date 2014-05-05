@@ -139,7 +139,7 @@ KangoAPI.onReady(function() {
 							{
 								var details = {
 							        method: 'GET',
-							        url: 'https://api.digitalocean.com/droplets/'+object.id+'/power_off/?client_id='+kango.storage.getItem('do_manager_client_id')+'&api_key='+kango.storage.getItem('do_manager_api_key'),
+							        url: 'https://api.digitalocean.com/droplets/'+object.id+'/power_on/?client_id='+kango.storage.getItem('do_manager_client_id')+'&api_key='+kango.storage.getItem('do_manager_api_key'),
 							        async: true,
 							        contentType: 'json'
 								};

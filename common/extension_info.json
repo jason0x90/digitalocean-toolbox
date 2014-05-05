@@ -6,7 +6,7 @@
         "main.js"
     ], 
     "homepage_url": "https://www.digitalocean.com/", 
-    "version": "1.0.0", 
+    "version": "1.0.1", 
 		"options_page": "options.html",
 		"browser_button": {
 		  "caption": "DigitalOcean Toolbox",
@@ -15,7 +15,7 @@
 		   "popup": {
 		     "url": "popup.html",
 		     "width": 700,
-		     "height": 460
+		     "height": 390
 		   }
 		 },
     "permissions": {
